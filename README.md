@@ -1,30 +1,47 @@
 <p align="center">
-  <img src="./hero.svg" alt="Ivan Rodriguez — Quant systems, economic AI, and public-data products" width="100%" />
+  <img src="./hero.svg" alt="Ivan Rodriguez — public AI systems, quant research, and economic data products" width="100%" />
 </p>
 
 <p align="center">
-  <img alt="Quant Systems" src="https://img.shields.io/badge/Quant%20Systems-Python%20%7C%20Research%20%7C%20Backtesting-0f172a?style=for-the-badge" />
-  <img alt="Economic AI" src="https://img.shields.io/badge/Economic%20AI-LLMs%20%7C%20MCP%20%7C%20Voice-14532d?style=for-the-badge" />
-  <img alt="Product Engineering" src="https://img.shields.io/badge/Product%20Engineering-Next.js%20%7C%20NestJS%20%7C%20Data%20Apps-7c2d12?style=for-the-badge" />
+  <img alt="Public AI Systems" src="https://img.shields.io/badge/Public%20AI%20Systems-LLMs%20%7C%20MCP%20%7C%20Automation-14532d?style=for-the-badge" />
+  <img alt="Quant Research" src="https://img.shields.io/badge/Quant%20Research-Python%20%7C%20Backtesting%20%7C%20Stat%20Arb-0f172a?style=for-the-badge" />
+  <img alt="Economic Data Products" src="https://img.shields.io/badge/Economic%20Data%20Products-ETL%20%7C%20Forecasting%20%7C%20Dashboards-7c2d12?style=for-the-badge" />
 </p>
 
-## Building at the intersection of economics, data, and software
+## Building economics, AI, and quantitative systems for real decisions
 
-I'm Ivan Rodriguez, a builder from Argentina working across quantitative research, AI-powered economic products, and decision-ready data tools.
+I'm Ivan Rodriguez, an economist and data scientist from Argentina working at the intersection of public-sector AI, quantitative research, and economic intelligence systems.
 
-Most of my work lives in three lanes:
+Right now I split my time across four roles:
 
-- designing quantitative frameworks for research, simulation, and strategy development
-- turning economic and operational data into products people can actually use
-- building AI agents and interfaces grounded in real datasets, not just demos
+- **AI Lead, Provincial Government AI Lab**: designing local-LLM and agentic workflows for document automation, intelligent parsing, and public-administration modernization
+- **Machine Learning Researcher, Dobby Quantitative Investment**: researching statistical arbitrage, cointegration, backtesting, and risk-aware portfolio experimentation
+- **Data Scientist, Provincial Institute of Statistics and Data Science**: building projections, indicators, forecasting workflows, and automated reporting pipelines
+- **Researcher, UNNE**: working on multivariate statistical methods applied to academic outcomes
 
 ## Start Here
 
-If you want to understand what I do quickly, these are the best entry points:
+If you want to understand my GitHub quickly, these are the strongest entry points:
 
 - **Quant infrastructure**: [`qbacktest`](https://github.com/Dobby-Quantitative-Investments/qbacktest), [`qstrategy`](https://github.com/Dobby-Quantitative-Investments/qstrategy), [`pair_trading`](https://github.com/ivanfederodriguez/pair_trading)
 - **AI products**: [`NIKA-CHATBOT`](https://github.com/Laboratorio-IA-Ctes/NIKA-CHATBOT), [`TekohaSolutions`](https://github.com/ivanfederodriguez/TekohaSolutions)
 - **Public-sector and economic data**: [`SerieAgricola`](https://github.com/ivanfederodriguez/SerieAgricola), [`BaseEmergencias`](https://github.com/ivanfederodriguez/BaseEmergencias), [`CBA-CTES`](https://github.com/ivanfederodriguez/CBA-CTES), [`PBG-Corrientes`](https://github.com/ivanfederodriguez/PBG-Corrientes), [`PBG-Chaco`](https://github.com/ivanfederodriguez/PBG-Chaco)
+
+## What I Build
+
+Most of my work lives in three lanes:
+
+- public AI systems grounded in real documents, indicators, and operational workflows
+- quantitative research tooling for pair trading, simulation, and portfolio construction
+- economic dashboards, ETL pipelines, and measurement systems for institutions that need reliable numbers
+
+## Applied Systems
+
+Beyond repositories, these are the kinds of systems I design and ship:
+
+- **Automated Economic Monitoring Dashboard**: daily ETL pipelines for CBA, IPC, EMAE, and regional indicators using Python and GitHub Actions over heterogeneous JSON and Excel sources
+- **AI implementation frameworks for provincial governance**: technical architectures using Whisper, Gemini, Llama, LangChain, LangGraph, and MCP for workflow automation and document parsing
+- **Laboratorio Z-Score**: a Streamlit-based analytical platform for statistical modeling, real-time Z-scores, and historical pair-trading backtests
 
 ## Selected Work
 
@@ -55,37 +72,32 @@ If you want to understand what I do quickly, these are the best entry points:
       <p>Product work around digital platforms and interfaces, plus a private SaaS MVP for club member self-management built with Next.js, NestJS, Prisma, and PostgreSQL.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Economic and public-data tooling</h3>
-      <p>Projects for agricultural series, emergency databases, household basket tracking, and regional economic measurement built for real operational and public-sector contexts.</p>
+      <h3>Economic and public-data systems</h3>
+      <p>Projects for agricultural series, emergency databases, household-basket tracking, and regional economic measurement built for real public-sector and institutional use.</p>
     </td>
   </tr>
 </table>
 
-## What I Like Building
+## Background
 
-```text
-quant research pipelines
-systematic strategy tooling
-economic data products
-llm orchestration over structured data
-decision dashboards
-full-stack MVPs with strong data cores
-```
+- Diploma in Data Science, Universidad Nacional del Nordeste (UNNE)
+- Economics degree, Universidad Catolica de Salta (thesis in progress)
+- Academic research program at UNNE focused on multivariate statistical modeling
 
 ## Working Stack
 
 ```text
-Python, pandas, numpy, Streamlit, Jupyter
-LLM orchestration, MCP, n8n, Groq, SQL guardrails
-Next.js, React, NestJS, Prisma, PostgreSQL
-analytics, reporting, automation, public-data workflows
+Python, R, SQL, pandas, numpy, Streamlit, Jupyter
+LangChain, LangGraph, MCP, n8n, RAG, ChromaDB, FAISS
+FastAPI, Flask, Docker, AWS, GitHub Actions
+forecasting, econometrics, clustering, ETL, dashboards, backtesting
 ```
 
 ## Current Focus
 
+- building local and open-source AI systems for public-governance workflows
 - making quantitative research infrastructure more reusable and production-friendly
-- building AI interfaces that answer with grounded economic data
-- turning domain-heavy workflows into clean products for institutions and teams
+- turning economic complexity into clean, operational data products
 
 ## Connect
 
@@ -93,5 +105,5 @@ analytics, reporting, automation, public-data workflows
 - GitHub: [@ivanfederodriguez](https://github.com/ivanfederodriguez)
 
 <p align="center">
-  <sub>Clear models. Real data. Useful systems.</sub>
+  <sub>Economics with code. AI with grounding. Systems that ship.</sub>
 </p>
