@@ -36,7 +36,7 @@
   <circle cx="1188" cy="314" r="104" fill="#0891B2" opacity="0.08"/>
 
   <g opacity="0.95">
-    <text x="74" y="78" fill="#93C5FD" font-size="16" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2.4">AI LEAD | ML RESEARCHER | ECONOMIST</text>
+    <text x="74" y="78" fill="#93C5FD" font-size="16" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2.4">DATA SCIENTIST | AI LEAD | ML RESEARCHER</text>
     <text x="74" y="136" fill="white" font-size="44" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Economics x AI x</text>
     <text x="74" y="188" fill="white" font-size="44" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Quant Systems</text>
     <rect x="74" y="210" width="160" height="6" rx="3" fill="url(#accent)" filter="url(#glow)"/>
