@@ -10,7 +10,7 @@
 
 ## Building economics, AI, and quantitative systems for real decisions
 
-I'm Ivan Rodriguez, an economist and data scientist from Argentina working at the intersection of public-sector AI, quantitative research, and economic intelligence systems.
+I'm Ivan Rodriguez, a Data Scientist and Economic Analyst from Argentina working at the intersection of public-sector AI, quantitative research, and economic intelligence systems.
 
 Right now I split my time across four roles:
 
@@ -59,7 +59,7 @@ Beyond repositories, these are the kinds of systems I design and ship:
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ivanfederodriguez/pair_trading">pair_trading</a></h3>
-      <p>Statistical arbitrage research environment with cointegration workflows, walk-forward evaluation, portfolio weighting experiments, and a Streamlit analysis dashboard.</p>
+      <p>Statistical-arbitrage research toolkit with ADF and Johansen diagnostics, rolling hedge ratios, Z-score signals, backtesting, and portfolio-weighting experiments.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Laboratorio-IA-Ctes/NIKA-CHATBOT">NIKA-CHATBOT</a></h3>
@@ -68,8 +68,8 @@ Beyond repositories, these are the kinds of systems I design and ship:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ivanfederodriguez/TekohaSolutions">TekohaSolutions</a></h3>
-      <p>Product work around digital platforms and interfaces, plus a private SaaS MVP for club member self-management built with Next.js, NestJS, Prisma, and PostgreSQL.</p>
+      <h3><a href="https://github.com/ivanfederodriguez/monitor-precios">Monitor de Precios</a></h3>
+      <p>Streamlit dashboard for weekly retail-price dynamics, combining a parameterized MySQL query, pandas transformations, interactive filters, and Plotly time series.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Economic and public-data systems</h3>
